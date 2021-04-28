@@ -1,1 +1,3 @@
 recepta del pastis
+afegir ingredients
+modificar passes recepta
