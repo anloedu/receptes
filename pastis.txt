@@ -1,3 +1,4 @@
 recepta del pastis
 afegir ingredients
 modificar passes recepta
+Canvi local: afegir valoració
