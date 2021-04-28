@@ -3,3 +3,4 @@ afegir ingredients
 modificar passes recepta
 Canvi local: afegir valoració
 canvi fet a GitHub
+corregir temperatura forn pastis
